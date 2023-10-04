@@ -1,5 +1,5 @@
-<resources>
-    <string name="app_name">Prak1</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">Prak1</string>
     <string name="textview">TextView</string>
     <string name="iwan">Iwan</string>
     <string name="_082217844036">082217844036</string>
@@ -18,4 +18,24 @@
     <string name="select_your_mototrcycle">select your mototrcycle</string>
     <string name="lt"><![CDATA[<]]></string>
     <string name="gt"><![CDATA[>]]></string>
+    <string name="name">Name :</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="tlogo" />
+    <string name="tName" />
+    <string name="tEnter_Your_Name" />
+    <string name="tPhone" />
+    <string name="tEditPhone" />
+    <string name="tAddress" />
+    <string name="tEditAddress" />
+    <string name="tSubmit" />
+    <string name="nama">Nama :</string>
+    <string name="enter_yourname">Enter Your Name</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+    <string name="phone">Phone :</string>
+    <string name="enter_your_address">Enter Your Address</string>
+    <string name="address">Address :</string>
+    <string name="submit">submit</string>
+    <string name="enteryourname">Enter Your Name</string>
+    <string name="enter_your_phonenumber">Enter Your Phone Number</string>
+    <string name="enter_youraddress">Enter Your Address</string>
 </resources>
